@@ -1,0 +1,17 @@
+{
+    "group": "downjoy",
+    "libs": ["libstdc++.6.0.9.dylib"],
+    "frameworks": [
+    			"AdSupport.framework",
+			"CoreGraphics.framework",
+			"Security.framework",
+			"QuartzCore.framework",
+			"UIKit.framework",
+                     	"Foundation.framework"
+			],
+    "headerpaths": [],
+    "files":   ["downjoySDK/DownjoySDK.iFramework/DownjoySDK.framework"],
+    "folders": ["downjoySDK/"],    
+    "excludes": ["^.*.meta$", "^.*.mdown$", "^.*.pdf$"],
+    "linker_flags": []
+}

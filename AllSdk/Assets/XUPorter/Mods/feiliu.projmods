@@ -1,0 +1,14 @@
+{
+    "group": "feiliu",
+    "libs": ["libicucore.dylib","libz.1.2.5.dylib"],
+    "frameworks": [
+    			"CoreTelephony.framework",
+			"MessageUI.framework",
+                     	"StoreKit.framework"
+			],
+    "headerpaths": [],
+    "files":   ["feiliuSDK/FlGamePlatform/FlGamePlatform.framework"],
+    "folders": ["feiliuSDK/"],    
+    "excludes": ["^.*.meta$", "^.*.mdown$", "^.*.pdf$"],
+    "linker_flags": []
+}

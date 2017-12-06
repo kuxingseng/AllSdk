@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>subCoopId</key>
+	<string>300000</string>
+	<key>TencentOAuth</key>
+	<dict>
+		<key>kQQAppKey</key>
+		<string>100344038</string>
+		<key>kQQAppSecret</key>
+		<string></string>
+		<key>kQQRedirectURI</key>
+		<string>www.qq.com</string>
+	</dict>
+	<key>SinaWeibo</key>
+	<dict>
+		<key>kSinaAppKey</key>
+		<string>454490636</string>
+		<key>kSinaAppSecret</key>
+		<string>ff85c43afbd2dce0003fbd2fe0bbdea7</string>
+		<key>kSinaRedirectURI</key>
+		<string>http://</string>
+	</dict>
+</dict>
+</plist>
