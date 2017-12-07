@@ -1,6 +1,6 @@
 # AllSdk
 
-Integration sdk for unity projec unity集成接入第三方sdk解决方案
+Integration sdk for unity projec / unity集成接入第三方sdk解决方案
 
 包含平台、支付、统计sdk统一接口，封装不同sdk的接口，实现项目内统一调用。
 
