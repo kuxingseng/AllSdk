@@ -2,19 +2,18 @@
 
 Integration sdk for unity projec
 
-unity���ɽ��������sdk�������
+unity集成接入第三方sdk解决方案
 
-����ƽ̨��֧����ͳ��sdkͳһ�ӿڣ���װ��ͬsdk�Ľӿڣ�ʵ����Ŀ��ͳһ���á�
+包含平台、支付、统计sdk统一接口，封装不同sdk的接口，实现项目内统一调用。
 
-�����ɣ�
-	AllSdk/Assets/Plugins/Allsdk	�������
-	Android	�������Android sdkʾ��
-	iOS	�������iOS sdkʾ��
+插件组成：
+	AllSdk/Assets/Plugins/Allsdk	插件代码
+	Android	处理后的Android sdk示例
+	iOS	处理后的iOS sdk示例
 
+Android接入，只需把处理后的sdk文件拷贝至Plugins/Android目录即可
+iOS接入，使用XUPorter插件处理sdk资源以及依赖，具体使用请参见：https://github.com/onevcat/XUPorter
 
-Android���룬ֻ��Ѵ������sdk�ļ�������Plugins/AndroidĿ¼����
-iOS���룬ʹ��XUPorter�������sdk��Դ�Լ�����������ʹ����μ���https://github.com/onevcat/XUPorter
+项目调用可参考示例代码
 
-��Ŀ���ÿɲο�ʾ������
-
-��ӭ���ۣ�QQ(249122681)
+欢迎讨论：QQ(249122681)
